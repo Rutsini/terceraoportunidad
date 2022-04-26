@@ -1,3 +1,5 @@
+alert("Para pagar ofrecemos 6 o 12 cuotas si interes o 18 cuotas con 15% de interes")
+
 function ingreso (si){
     si = prompt("¿Quieres calcular el monto por cuotas? si/no");
     if (si == "si"){
